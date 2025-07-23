@@ -17,8 +17,8 @@ function Profile() {
         </h2>
         <p className="text-[4vw] md:text-base text-gray-300 mb-8">
           I'm a passionate developer with experience in building responsive
-          websites, backend APIs, and full-stack applications using React,
-          Spring Boot, Java, and more.
+          websites, backend APIs, and full-stack applications using Javascript,
+          Spring Boot, Java, MySQL and more.
         </p>
 
         <div className="flex gap-4 justify-center md:justify-start">
