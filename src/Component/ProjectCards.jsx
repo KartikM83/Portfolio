@@ -28,7 +28,7 @@ function ProjectCard({ name, description, img, github }) {
               href={github}
               target="_blank"
               rel="noopener noreferrer"
-              className="inline-flex items-center px-3 py-1 bg-[#ffbd20] text-white text-sm font-semibold rounded hover:bg-indigo-700 transition duration-200"
+              className="inline-flex items-center px-3 py-1 bg-[#ffbd20] text-white text-sm font-semibold rounded hover:bg-[#f99b07] transition duration-200"
             >
               <FaGithub className="mr-2" /> Github Link
             </a>
