@@ -10,9 +10,9 @@ function Nav() {
 
   const navItems = [
     { name: "Home", to: "home" },
+    { name: "Work", to: "work" },
     { name: "Projects", to: "projects" },
     { name: "Tech Stack", to: "techstack" },
-    { name: "Work", to: "work" },
     { name: "Contact", to: "contact" },
   ];
 
