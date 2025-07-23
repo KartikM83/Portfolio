@@ -7,26 +7,26 @@ const projects = [
   {
   name: "Leave Management System",
   description: "Built a full-stack Leave Management System with role-based access using Spring Boot, JPA, and MySQL. Included RESTful APIs, validation, and a front end with HTML, CSS, and JavaScript.",
-  img: "src/assets/leave_management_system.png", // optional, replaceable
+  img: "../assets/leave_management_system.png",
   github: "https://github.com/KartikM83/Leave-Management-System"
   },
 
   {
     name: "Job Application API",
     description: "Developed a RESTful API for job post management using Spring Boot, JPA, and MySQL, with AOP for logging and Postman for API testing.",
-    img: "src/assets/job_application.webp",
+    img: "../assets/job_application.webp",
     github: "https://github.com/KartikM83/Job-Application",
   },
   {
     name: "Task Management API",
     description: "Built a RESTful Task Management API with CRUD operations, exception handling, and sorting using Spring Boot, JPA, and connect it with MySQL.",
-    img: "src/assets/task_management.webp",
+    img: "../assets/task_management.webp",
     github: "https://github.com/KartikM83/Task_Application",
   },
   {
     name: "Voice AI Gesture System",
     description: "Developed a Voice and Hand Gesture-Controlled System, enhancing user interaction through advanced computer vision and voice AI technologies.",
-    img: "src/assets/voice_ai.webp",
+    img: "../assets/voice_ai.webp",
     github: "https://github.com/KartikM83/Voice-AI-With-Hand-Gestures-Interaction",
   },
 ];
