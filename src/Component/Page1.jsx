@@ -14,7 +14,7 @@ function Page1() {
         </h1>
 
         <p className="text-md md:text-lg text-gray-300 mb-6 font-exo">
-          I’m a passionate Full Stack Developer with expertise in Javascript, Spring Boot, and everything in between.
+          I’m a passionate Full Stack Developer with expertise in Java, Javascript, Spring Boot, and everything in between.
         </p>
 
         <div className="flex justify-center gap-4">
