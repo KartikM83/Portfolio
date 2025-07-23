@@ -3,23 +3,22 @@ import Tech from "./Tech.jsx";
 import Tech2 from "./Tech2.jsx";
 import Tech3 from "./Tech3.jsx";
 
-// Import images for data
-import javaImg from './assets/java.png';
-import htmlImg from './assets/html.png';
-import cssImg from './assets/css.png';
-import jsImg from './assets/javascript.png';
-import pythonImg from './assets/python.png';
+import javaImg from '../assets/java.png';
+import htmlImg from '../assets/html.png';
+import cssImg from '../assets/css.png';
+import jsImg from '../assets/javascript.png';
+import pythonImg from '../assets/python.png';
 
-// Import images for data2
-import springImg from './assets/Spring.png';
-import reactImg from './assets/react.png';
-import mysqlImg from './assets/mysql.png';
+// similarly for other images
+import springImg from '../assets/Spring.png';
+import reactImg from '../assets/react.png';
+import mysqlImg from '../assets/mysql.png';
 
-// Import images for data3
-import postmanImg from './assets/postman.png';
-import jdbcImg from './assets/JDBC.png';
-import mavenImg from './assets/Maven2.png';
-import hibernateImg from './assets/hibernate.png';
+import postmanImg from '../assets/postman.png';
+import jdbcImg from '../assets/JDBC.png';
+import mavenImg from '../assets/Maven2.png';
+import hibernateImg from '../assets/hibernate.png';
+
 
 
 function TechStack() {
