@@ -29,7 +29,7 @@ function Profile() {
             Contact Me
           </a>
           <a
-            href="/resume.pdf" // Replace with your actual resume link
+            href="/Kartik_Mankar_Resume.pdf"// Replace with your actual resume link
             download
             className="bg-transparent border border-white hover:bg-white hover:text-zinc-900 text-white font-bold py-2 px-6 rounded-full transition duration-300"
           >
