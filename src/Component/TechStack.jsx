@@ -1,7 +1,7 @@
 import React from "react";
-import Tech from "./Tech";
-import Tech2 from "./Tech2";
-import Tech3 from "./Tech3";
+import Tech from "./Tech.jsx";
+import Tech2 from "./Tech2.jsx";
+import Tech3 from "./Tech3.jsx";
 
 // Import images for data
 import javaImg from './assets/java.png';
