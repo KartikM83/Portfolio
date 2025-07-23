@@ -3,33 +3,48 @@ import Tech from "./Tech";
 import Tech2 from "./Tech2";
 import Tech3 from "./Tech3";
 
+// Import images for data
+import javaImg from './assets/java.png';
+import htmlImg from './assets/html.png';
+import cssImg from './assets/css.png';
+import jsImg from './assets/javascript.png';
+import pythonImg from './assets/python.png';
+
+// Import images for data2
+import springImg from './assets/Spring.png';
+import reactImg from './assets/react.png';
+import mysqlImg from './assets/mysql.png';
+
+// Import images for data3
+import postmanImg from './assets/postman.png';
+import jdbcImg from './assets/JDBC.png';
+import mavenImg from './assets/Maven2.png';
+import hibernateImg from './assets/hibernate.png';
+
+
 function TechStack() {
-  const data = [
-    { Name: "Java Core", img: "src/assets/java.png" },
-    { Name: "HTML", img: "src/assets/html.png" },
-    { Name: "CSS", img: "src/assets/css.png" },
-    { Name: "JavaScript", img: "src/assets/javascript.png" },
-    { Name: "Python", img: "src/assets/python.png" },
-  ];
+ const data = [
+  { Name: "Java Core", img: javaImg },
+  { Name: "HTML", img: htmlImg },
+  { Name: "CSS", img: cssImg },
+  { Name: "JavaScript", img: jsImg },
+  { Name: "Python", img: pythonImg },
+];
 
- 
+const data2 = [
+  { Name1: "Spring Boot", img1: springImg },
+  { Name1: "React", img1: reactImg },
+  { Name1: "MYSQL", img1: mysqlImg },
+];
 
-  const data2 =[
-    {Name1:"Spring Boot" ,img1:"src/assets/Spring.png"},
-    {Name1:"React" ,img1:"src/assets/react.png"},
-    {Name1:"MYSQL" ,img1:"src/assets/mysql.png"},
+const data3 = [
+  { Name2: "postman", img2: postmanImg },
+  { Name2: "jdbc", img2: jdbcImg },
+  { Name2: "maven", img2: mavenImg },
+  { Name2: "hibernate", img2: hibernateImg },
+  { Name2: "postman", img2: postmanImg },
+];
 
-  ];
-
-
-  const data3 =[
-    {Name2:"postman" ,img2:"src/assets/postman.png"},
-    {Name2:"jdbc" ,img2:"src/assets/JDBC.png"},
-    {Name2:"maven" ,img2:"src/assets/Maven2.png"},
-    {Name2:"hibernate" ,img2:"src/assets/hibernate.png"},
-    {Name2:"postman" ,img2:"src/assets/postman.png"},
-
-  ];
   
 
   return (
