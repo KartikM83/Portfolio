@@ -1,14 +1,14 @@
 import React from "react";
-import Nav from "./Component/Nav";
+import Nav from "./Component/Nav.jsx";
 import './App.css'; // Import the CSS file
-import Page1 from "./Component/page1";
-import Projects from "./Component/Projects";
-import Work from "./Component/Work";
-import Showcase from "./Component/TechStack";
+import Page1 from "./Component/Page1.jsx";
+import Projects from "./Component/Projects.jsx";
+import Work from "./Component/Work.jsx";
+import Showcase from "./Component/TechStack.jsx";
 // import K from "./Component/K";
-import TechStack from "./Component/TechStack";
-import Contact from "./Component/Contact";
-import Profile from "./Component/Profile";
+import TechStack from "./Component/TechStack.jsx";
+import Contact from "./Component/Contact.jsx";
+import Profile from "./Component/Profile.jsx";
 
 function App(){
 
